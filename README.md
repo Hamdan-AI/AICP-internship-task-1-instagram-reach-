@@ -48,7 +48,9 @@ SARIMA Model:
 
 Define and train the SARIMA model using the selected parameters.
 Forecast the Instagram reach for the next 30 days.
-Results
+
+
+Results:
 The analysis and forecasting results are visualized using matplotlib. The forecasted reach is plotted alongside the historical reach to provide a clear comparison.
 
 Contributing:
